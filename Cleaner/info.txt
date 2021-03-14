@@ -1,0 +1,2 @@
+copy this cmd file into C: and run.
+Run at your own risk in other drives.
